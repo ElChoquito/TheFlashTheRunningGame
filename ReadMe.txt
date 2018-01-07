@@ -1,4 +1,4 @@
-The Flash: The Running Game(Prototype1):
+The Flash: The Running Game:
 
 Installation:
 	  	-  Lancer le menu : $python TFTRGP1.  
@@ -13,4 +13,5 @@ Jouer :
 Regles : 
 		- Survive le plus longtemps possible
 		- Une attaque dans la tête du Reverse Flash et c'est +20Pts Bonus !
- 
+
+Echap pour quitter le jeu. 
